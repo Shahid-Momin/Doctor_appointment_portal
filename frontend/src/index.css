@@ -1,0 +1,14 @@
+:root{
+  --bg:#eef2f7; --card:#fff; --text:#222; --button:#3498db; --muted:#666;
+}
+body {
+  margin:0; font-family: Arial, Helvetica, sans-serif; background:var(--bg); color:var(--text);
+}
+.container {
+  max-width:720px; margin:30px auto; padding:20px; background:var(--card); border-radius:10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+}
+h2{ text-align:center; margin-top:0;}
+.doctor-card{ padding:12px; border:1px solid #eee; border-radius:8px; margin-bottom:12px; background:#fafafa;}
+input{ width:100%; padding:10px; margin-top:8px; border-radius:6px; border:1px solid #ccc;}
+button{ background:var(--button); color:#fff; border:none; padding:10px 12px; border-radius:6px; cursor:pointer;}

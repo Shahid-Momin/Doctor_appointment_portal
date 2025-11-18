@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "patientName": "rohan",
+    "doctorId": 1,
+    "doctorName": "Dr. Ayesha Khan",
+    "date": "2025-11-29",
+    "time": "14:23",
+    "createdAt": "2025-11-18T06:53:51.063Z"
+  }
+]
